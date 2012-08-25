@@ -6,7 +6,7 @@ updated with the last build with submodules
 It will also allow to not have repeated code in your projects and also update
 all of them at once. 
 
-In an ezpublish you should not take any of the provided files. So, maybe you
+iIn an ezpublish you should not take any of the provided files. So, maybe you
 don't want to track them either. 
 
 ## The goal
