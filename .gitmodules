@@ -1,0 +1,3 @@
+[submodule "ezp"]
+	path = ezp
+	url = https://github.com/crevillo/ezc.git
